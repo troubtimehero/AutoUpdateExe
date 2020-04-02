@@ -1,0 +1,11 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+*.bat
+*.exe
+*.suo
+
+/[Dd]ebug/
+/[Rr]elease/
